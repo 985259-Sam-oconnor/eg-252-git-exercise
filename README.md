@@ -12,7 +12,7 @@ Don't forget to add your name, your student number and the submission date to th
 top of this file (which is `README.md`), 
 and stage and commit it before pushing your finished work to your fork of
 the original repository 
-[github.com/cpjobling/eg-252-git-exercise-2014](http://github.com/cpjobling/eg-252-git-exercise-2014) 
+[github.com/cpjobling/eg-252-git-exercise-2015](http://github.com/cpjobling/eg-252-git-exercise-2015) 
 on GitHub:
 
     git push origin master
@@ -36,10 +36,10 @@ The text files used in this exercise are extracted from [Project Gutenberg's Ali
 in Wonderland, by Lewis Carroll](http://www.gutenberg.org/ebooks/11) 
 (plain text UTF-8 version) and are intended to be distributed only to the group of students in
 the College of Engineering at Swansea Engineering who are taking *EG-252 Group Design Exercise*
-in 2014. The text is being used soley for the purposes of learning how to work with *git*, 
+in 2015. The text is being used soley for the purposes of learning how to work with *git*, 
 and we believe that its use in this way does not violate the terms of use under which the source materials
 where originally licensed.
 
 See [The Project Gutenberg License](http://www.gutenberg.org/wiki/Gutenberg:The_Project_Gutenberg_License).
 
-This document `README.md` is Copyright (c) Swansea University, 2014.
+This document `README.md` is Copyright (c) Swansea University, 2015.
