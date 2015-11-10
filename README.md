@@ -12,7 +12,7 @@ Don't forget to add your name, your student number and the submission date to th
 top of this file (which is `README.md`), 
 and stage and commit it before pushing your finished work to your fork of
 the original repository 
-[github.com/cpjobling/eg-252-git-exercise-2014](http://github.com/cpjobling/eg-252-git-exercise-2014) 
+[github.com/cpjobling/eg-252-git-exercise-2015](http://github.com/cpjobling/eg-252-git-exercise-2015) 
 on GitHub:
 
     git push origin master
