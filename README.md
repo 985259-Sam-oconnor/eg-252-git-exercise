@@ -42,4 +42,4 @@ where originally licensed.
 
 See [The Project Gutenberg License](http://www.gutenberg.org/wiki/Gutenberg:The_Project_Gutenberg_License).
 
-This document `README.md` is Copyright (c) Swansea University, 2015.
+This document `README.md` is Copyright (c) Swansea University, 2020.
